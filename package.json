@@ -6,7 +6,7 @@
     "@infiman/react-router-querystring": "^1.0.0-2",
     "grommet": "^2.6.6",
     "grommet-icons": "^4.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "polished": "^3.2.0",
     "qs": "^6.7.0",
     "react": "^16.8.6",
